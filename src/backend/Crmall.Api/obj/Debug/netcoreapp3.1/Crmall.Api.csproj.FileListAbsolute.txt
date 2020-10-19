@@ -1,0 +1,171 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Api.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Api.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Api.runtimeconfig.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Api.runtimeconfig.dev.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Api.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Api.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.CrossCutting.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Data.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Domain.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Services.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.CrossCutting.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Domain.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Services.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Data.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\Crmall.Api.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\Crmall.Api.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\Crmall.Api.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\Crmall.Api.RazorTargetAssemblyInfo.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\Crmall.Api.csproj.CopyComplete
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\staticwebassets\Crmall.Api.StaticWebAssets.Manifest.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\staticwebassets\Crmall.Api.StaticWebAssets.xml
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\Crmall.Api.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\Crmall.Api.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\Crmall.Api.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\Crmall.Api.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\Crmall.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Api.exe
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Api.deps.json
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Api.runtimeconfig.json
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Api.runtimeconfig.dev.json
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Api.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Api.pdb
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.CrossCutting.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Data.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Domain.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Services.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.CrossCutting.pdb
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Domain.pdb
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Services.pdb
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Data.pdb
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\Crmall.Api.csprojAssemblyReference.cache
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\Crmall.Api.AssemblyInfoInputs.cache
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\Crmall.Api.AssemblyInfo.cs
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\Crmall.Api.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\Crmall.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\Crmall.Api.RazorTargetAssemblyInfo.cache
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\Crmall.Api.csproj.CopyComplete
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\staticwebassets\Crmall.Api.StaticWebAssets.Manifest.cache
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\staticwebassets\Crmall.Api.StaticWebAssets.xml
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\Crmall.Api.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\Crmall.Api.pdb
+C:\Users\adria\Desktop\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\Crmall.Api.genruntimeconfig.cache
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Api.exe
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Api.deps.json
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Api.runtimeconfig.json
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Api.runtimeconfig.dev.json
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Api.dll
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Api.pdb
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.CrossCutting.dll
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Data.dll
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Domain.dll
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Services.dll
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.CrossCutting.pdb
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Domain.pdb
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Services.pdb
+C:\Git\crmall-crud\Crmall.Api\bin\Debug\netcoreapp3.1\Crmall.Data.pdb
+C:\Git\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\Crmall.Api.csprojAssemblyReference.cache
+C:\Git\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\Crmall.Api.AssemblyInfoInputs.cache
+C:\Git\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\Crmall.Api.AssemblyInfo.cs
+C:\Git\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\Crmall.Api.csproj.CoreCompileInputs.cache
+C:\Git\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\Crmall.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Git\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\Crmall.Api.RazorTargetAssemblyInfo.cache
+C:\Git\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\Crmall.Api.csproj.CopyComplete
+C:\Git\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\staticwebassets\Crmall.Api.StaticWebAssets.Manifest.cache
+C:\Git\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\staticwebassets\Crmall.Api.StaticWebAssets.xml
+C:\Git\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\Crmall.Api.dll
+C:\Git\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\Crmall.Api.pdb
+C:\Git\crmall-crud\Crmall.Api\obj\Debug\netcoreapp3.1\Crmall.Api.genruntimeconfig.cache

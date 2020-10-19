@@ -1,0 +1,53 @@
+<mat-card>
+    <mat-card-title>Excluir Cliente</mat-card-title>
+    <form>
+        <mat-form-field>
+            <input matInput placeholder="Nome" 
+            [(ngModel)]="client.nome" name="nome" disabled>
+        </mat-form-field>
+        <mat-form-field>
+            <input matInput placeholder="Data de nascimento" 
+            [(ngModel)]="client.dataNascimento" name="dataNascimento" disabled>
+        </mat-form-field>        
+        <mat-form-field>
+            <input matInput placeholder="Sexo" 
+            [(ngModel)]="client.sexo" name="sexo" disabled>
+        </mat-form-field>
+        <!-- <mat-form-field>
+            <input matInput placeholder="CEP" 
+            [value]="endereco.cep" name="cep" disabled>
+        </mat-form-field> 
+        <mat-form-field>
+            <input matInput placeholder="Endereço" 
+            [value]="endereco.logradouro" name="logradouro" disabled>
+        </mat-form-field>
+        <mat-form-field>
+            <input matInput placeholder="Número" 
+            [value]="endereco.numero" name="numero" disabled>
+        </mat-form-field> 
+        <mat-form-field>
+            <input matInput placeholder="Complemento" 
+            [value]="endereco.complemento" name="complemento" disabled>
+        </mat-form-field>
+        <mat-form-field>
+            <input matInput placeholder="Bairro" 
+            [value]="endereco.bairro" name="bairro" disabled>
+        </mat-form-field> 
+        <mat-form-field>
+            <input matInput placeholder="Estado" 
+            [value]="endereco.estado" name="estado" disabled>
+        </mat-form-field>         
+        <mat-form-field>
+            <input matInput placeholder="Cidade" 
+            [value]="endereco.cidade" name="cidade" disabled>
+        </mat-form-field> -->
+    </form>
+</mat-card>
+
+<button mat-raised-button (click)="deleteClient()" color="warning">
+    Excluir
+</button>
+
+<button mat-raised-button (click)="cancel()">
+    Cancelar
+</button>

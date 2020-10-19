@@ -1,0 +1,15 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crlmall.Data\bin\Debug\netcoreapp3.1\Crlmall.Data.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crlmall.Data\bin\Debug\netcoreapp3.1\Crlmall.Data.runtimeconfig.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crlmall.Data\bin\Debug\netcoreapp3.1\Crlmall.Data.runtimeconfig.dev.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crlmall.Data\bin\Debug\netcoreapp3.1\Crlmall.Data.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crlmall.Data\bin\Debug\netcoreapp3.1\Crlmall.Data.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crlmall.Data\bin\Debug\netcoreapp3.1\Crmall.Domain.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crlmall.Data\bin\Debug\netcoreapp3.1\Crmall.Domain.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crlmall.Data\obj\Debug\netcoreapp3.1\Crlmall.Data.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crlmall.Data\obj\Debug\netcoreapp3.1\Crlmall.Data.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crlmall.Data\obj\Debug\netcoreapp3.1\Crlmall.Data.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crlmall.Data\obj\Debug\netcoreapp3.1\Crlmall.Data.csproj.CopyComplete
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crlmall.Data\obj\Debug\netcoreapp3.1\Crlmall.Data.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crlmall.Data\obj\Debug\netcoreapp3.1\Crlmall.Data.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crlmall.Data\obj\Debug\netcoreapp3.1\Crlmall.Data.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crlmall.Data\obj\Debug\netcoreapp3.1\Crlmall.Data.csproj.CoreCompileInputs.cache

@@ -1,0 +1,45 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crlmall.Data\bin\Debug\netcoreapp3.1\Crmall.Data.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crlmall.Data\bin\Debug\netcoreapp3.1\Crmall.Data.runtimeconfig.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crlmall.Data\bin\Debug\netcoreapp3.1\Crmall.Data.runtimeconfig.dev.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crlmall.Data\bin\Debug\netcoreapp3.1\Crmall.Data.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crlmall.Data\bin\Debug\netcoreapp3.1\Crmall.Data.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crlmall.Data\bin\Debug\netcoreapp3.1\Crmall.Domain.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crlmall.Data\bin\Debug\netcoreapp3.1\Crmall.Domain.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crlmall.Data\obj\Debug\netcoreapp3.1\Crmall.Data.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crlmall.Data\obj\Debug\netcoreapp3.1\Crmall.Data.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crlmall.Data\obj\Debug\netcoreapp3.1\Crmall.Data.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crlmall.Data\obj\Debug\netcoreapp3.1\Crmall.Data.csproj.CopyComplete
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crlmall.Data\obj\Debug\netcoreapp3.1\Crmall.Data.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crlmall.Data\obj\Debug\netcoreapp3.1\Crmall.Data.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crlmall.Data\obj\Debug\netcoreapp3.1\Crmall.Data.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crlmall.Data\obj\Debug\netcoreapp3.1\Crmall.Data.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\crmall-crud\Crlmall.Data\bin\Debug\netcoreapp3.1\Crmall.Data.deps.json
+C:\Users\adria\Desktop\crmall-crud\Crlmall.Data\bin\Debug\netcoreapp3.1\Crmall.Data.runtimeconfig.json
+C:\Users\adria\Desktop\crmall-crud\Crlmall.Data\bin\Debug\netcoreapp3.1\Crmall.Data.runtimeconfig.dev.json
+C:\Users\adria\Desktop\crmall-crud\Crlmall.Data\bin\Debug\netcoreapp3.1\Crmall.Data.dll
+C:\Users\adria\Desktop\crmall-crud\Crlmall.Data\bin\Debug\netcoreapp3.1\Crmall.Data.pdb
+C:\Users\adria\Desktop\crmall-crud\Crlmall.Data\bin\Debug\netcoreapp3.1\Crmall.Domain.dll
+C:\Users\adria\Desktop\crmall-crud\Crlmall.Data\bin\Debug\netcoreapp3.1\Crmall.Domain.pdb
+C:\Users\adria\Desktop\crmall-crud\Crlmall.Data\obj\Debug\netcoreapp3.1\Crmall.Data.csprojAssemblyReference.cache
+C:\Users\adria\Desktop\crmall-crud\Crlmall.Data\obj\Debug\netcoreapp3.1\Crmall.Data.AssemblyInfoInputs.cache
+C:\Users\adria\Desktop\crmall-crud\Crlmall.Data\obj\Debug\netcoreapp3.1\Crmall.Data.AssemblyInfo.cs
+C:\Users\adria\Desktop\crmall-crud\Crlmall.Data\obj\Debug\netcoreapp3.1\Crmall.Data.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\crmall-crud\Crlmall.Data\obj\Debug\netcoreapp3.1\Crmall.Data.csproj.CopyComplete
+C:\Users\adria\Desktop\crmall-crud\Crlmall.Data\obj\Debug\netcoreapp3.1\Crmall.Data.dll
+C:\Users\adria\Desktop\crmall-crud\Crlmall.Data\obj\Debug\netcoreapp3.1\Crmall.Data.pdb
+C:\Users\adria\Desktop\crmall-crud\Crlmall.Data\obj\Debug\netcoreapp3.1\Crmall.Data.genruntimeconfig.cache
+C:\Git\crmall-crud\Crlmall.Data\bin\Debug\netcoreapp3.1\Crmall.Data.deps.json
+C:\Git\crmall-crud\Crlmall.Data\bin\Debug\netcoreapp3.1\Crmall.Data.runtimeconfig.json
+C:\Git\crmall-crud\Crlmall.Data\bin\Debug\netcoreapp3.1\Crmall.Data.runtimeconfig.dev.json
+C:\Git\crmall-crud\Crlmall.Data\bin\Debug\netcoreapp3.1\Crmall.Data.dll
+C:\Git\crmall-crud\Crlmall.Data\bin\Debug\netcoreapp3.1\Crmall.Data.pdb
+C:\Git\crmall-crud\Crlmall.Data\bin\Debug\netcoreapp3.1\Crmall.Domain.dll
+C:\Git\crmall-crud\Crlmall.Data\bin\Debug\netcoreapp3.1\Crmall.Domain.pdb
+C:\Git\crmall-crud\Crlmall.Data\obj\Debug\netcoreapp3.1\Crmall.Data.csprojAssemblyReference.cache
+C:\Git\crmall-crud\Crlmall.Data\obj\Debug\netcoreapp3.1\Crmall.Data.AssemblyInfoInputs.cache
+C:\Git\crmall-crud\Crlmall.Data\obj\Debug\netcoreapp3.1\Crmall.Data.AssemblyInfo.cs
+C:\Git\crmall-crud\Crlmall.Data\obj\Debug\netcoreapp3.1\Crmall.Data.csproj.CoreCompileInputs.cache
+C:\Git\crmall-crud\Crlmall.Data\obj\Debug\netcoreapp3.1\Crmall.Data.csproj.CopyComplete
+C:\Git\crmall-crud\Crlmall.Data\obj\Debug\netcoreapp3.1\Crmall.Data.dll
+C:\Git\crmall-crud\Crlmall.Data\obj\Debug\netcoreapp3.1\Crmall.Data.pdb
+C:\Git\crmall-crud\Crlmall.Data\obj\Debug\netcoreapp3.1\Crmall.Data.genruntimeconfig.cache

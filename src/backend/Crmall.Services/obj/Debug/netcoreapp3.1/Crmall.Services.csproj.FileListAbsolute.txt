@@ -1,0 +1,36 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Services\bin\Debug\netcoreapp3.1\Crmall.Services.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Services\bin\Debug\netcoreapp3.1\Crmall.Services.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Services\bin\Debug\netcoreapp3.1\Crmall.Services.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Services\bin\Debug\netcoreapp3.1\Crmall.Domain.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Services\bin\Debug\netcoreapp3.1\Crmall.Domain.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Services\obj\Debug\netcoreapp3.1\Crmall.Services.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Services\obj\Debug\netcoreapp3.1\Crmall.Services.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Services\obj\Debug\netcoreapp3.1\Crmall.Services.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Services\obj\Debug\netcoreapp3.1\Crmall.Services.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Services\obj\Debug\netcoreapp3.1\Crmall.Services.csproj.CopyComplete
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Services\obj\Debug\netcoreapp3.1\Crmall.Services.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.Services\obj\Debug\netcoreapp3.1\Crmall.Services.pdb
+C:\Users\adria\Desktop\crmall-crud\Crmall.Services\bin\Debug\netcoreapp3.1\Crmall.Services.deps.json
+C:\Users\adria\Desktop\crmall-crud\Crmall.Services\bin\Debug\netcoreapp3.1\Crmall.Services.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Services\bin\Debug\netcoreapp3.1\Crmall.Services.pdb
+C:\Users\adria\Desktop\crmall-crud\Crmall.Services\bin\Debug\netcoreapp3.1\Crmall.Domain.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Services\bin\Debug\netcoreapp3.1\Crmall.Domain.pdb
+C:\Users\adria\Desktop\crmall-crud\Crmall.Services\obj\Debug\netcoreapp3.1\Crmall.Services.csprojAssemblyReference.cache
+C:\Users\adria\Desktop\crmall-crud\Crmall.Services\obj\Debug\netcoreapp3.1\Crmall.Services.AssemblyInfoInputs.cache
+C:\Users\adria\Desktop\crmall-crud\Crmall.Services\obj\Debug\netcoreapp3.1\Crmall.Services.AssemblyInfo.cs
+C:\Users\adria\Desktop\crmall-crud\Crmall.Services\obj\Debug\netcoreapp3.1\Crmall.Services.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\crmall-crud\Crmall.Services\obj\Debug\netcoreapp3.1\Crmall.Services.csproj.CopyComplete
+C:\Users\adria\Desktop\crmall-crud\Crmall.Services\obj\Debug\netcoreapp3.1\Crmall.Services.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.Services\obj\Debug\netcoreapp3.1\Crmall.Services.pdb
+C:\Git\crmall-crud\Crmall.Services\bin\Debug\netcoreapp3.1\Crmall.Services.deps.json
+C:\Git\crmall-crud\Crmall.Services\bin\Debug\netcoreapp3.1\Crmall.Services.dll
+C:\Git\crmall-crud\Crmall.Services\bin\Debug\netcoreapp3.1\Crmall.Services.pdb
+C:\Git\crmall-crud\Crmall.Services\bin\Debug\netcoreapp3.1\Crmall.Domain.dll
+C:\Git\crmall-crud\Crmall.Services\bin\Debug\netcoreapp3.1\Crmall.Domain.pdb
+C:\Git\crmall-crud\Crmall.Services\obj\Debug\netcoreapp3.1\Crmall.Services.csprojAssemblyReference.cache
+C:\Git\crmall-crud\Crmall.Services\obj\Debug\netcoreapp3.1\Crmall.Services.AssemblyInfoInputs.cache
+C:\Git\crmall-crud\Crmall.Services\obj\Debug\netcoreapp3.1\Crmall.Services.AssemblyInfo.cs
+C:\Git\crmall-crud\Crmall.Services\obj\Debug\netcoreapp3.1\Crmall.Services.csproj.CoreCompileInputs.cache
+C:\Git\crmall-crud\Crmall.Services\obj\Debug\netcoreapp3.1\Crmall.Services.csproj.CopyComplete
+C:\Git\crmall-crud\Crmall.Services\obj\Debug\netcoreapp3.1\Crmall.Services.dll
+C:\Git\crmall-crud\Crmall.Services\obj\Debug\netcoreapp3.1\Crmall.Services.pdb

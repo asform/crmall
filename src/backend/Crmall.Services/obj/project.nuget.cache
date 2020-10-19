@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "lmKWr6pkWZBQT3W2Lh0lSGgj2713SQ6sMPE4kuDCNFcd5++9pvYusVS7bKdTdLZyB14q0GQtz3PaJwbNXNuz1w==",
+  "success": true,
+  "projectFilePath": "C:\\Git\\crmall-crud\\Crmall.Services\\Crmall.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adria\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.8\\microsoft.extensions.logging.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,48 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.CrossCutting\bin\Debug\netcoreapp3.1\Crmall.CrossCutting.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.CrossCutting\bin\Debug\netcoreapp3.1\Crmall.CrossCutting.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.CrossCutting\bin\Debug\netcoreapp3.1\Crmall.CrossCutting.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.CrossCutting\bin\Debug\netcoreapp3.1\Crmall.Data.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.CrossCutting\bin\Debug\netcoreapp3.1\Crmall.Domain.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.CrossCutting\bin\Debug\netcoreapp3.1\Crmall.Services.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.CrossCutting\bin\Debug\netcoreapp3.1\Crmall.Data.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.CrossCutting\bin\Debug\netcoreapp3.1\Crmall.Domain.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.CrossCutting\bin\Debug\netcoreapp3.1\Crmall.Services.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.CrossCutting\obj\Debug\netcoreapp3.1\Crmall.CrossCutting.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.CrossCutting\obj\Debug\netcoreapp3.1\Crmall.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.CrossCutting\obj\Debug\netcoreapp3.1\Crmall.CrossCutting.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.CrossCutting\obj\Debug\netcoreapp3.1\Crmall.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.CrossCutting\obj\Debug\netcoreapp3.1\Crmall.CrossCutting.csproj.CopyComplete
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.CrossCutting\obj\Debug\netcoreapp3.1\Crmall.CrossCutting.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Teste\src\crmall-crud\Crmall.CrossCutting\obj\Debug\netcoreapp3.1\Crmall.CrossCutting.pdb
+C:\Users\adria\Desktop\crmall-crud\Crmall.CrossCutting\bin\Debug\netcoreapp3.1\Crmall.CrossCutting.deps.json
+C:\Users\adria\Desktop\crmall-crud\Crmall.CrossCutting\bin\Debug\netcoreapp3.1\Crmall.CrossCutting.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.CrossCutting\bin\Debug\netcoreapp3.1\Crmall.CrossCutting.pdb
+C:\Users\adria\Desktop\crmall-crud\Crmall.CrossCutting\bin\Debug\netcoreapp3.1\Crmall.Data.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.CrossCutting\bin\Debug\netcoreapp3.1\Crmall.Domain.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.CrossCutting\bin\Debug\netcoreapp3.1\Crmall.Services.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.CrossCutting\bin\Debug\netcoreapp3.1\Crmall.Data.pdb
+C:\Users\adria\Desktop\crmall-crud\Crmall.CrossCutting\bin\Debug\netcoreapp3.1\Crmall.Domain.pdb
+C:\Users\adria\Desktop\crmall-crud\Crmall.CrossCutting\bin\Debug\netcoreapp3.1\Crmall.Services.pdb
+C:\Users\adria\Desktop\crmall-crud\Crmall.CrossCutting\obj\Debug\netcoreapp3.1\Crmall.CrossCutting.csprojAssemblyReference.cache
+C:\Users\adria\Desktop\crmall-crud\Crmall.CrossCutting\obj\Debug\netcoreapp3.1\Crmall.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\adria\Desktop\crmall-crud\Crmall.CrossCutting\obj\Debug\netcoreapp3.1\Crmall.CrossCutting.AssemblyInfo.cs
+C:\Users\adria\Desktop\crmall-crud\Crmall.CrossCutting\obj\Debug\netcoreapp3.1\Crmall.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\crmall-crud\Crmall.CrossCutting\obj\Debug\netcoreapp3.1\Crmall.CrossCutting.csproj.CopyComplete
+C:\Users\adria\Desktop\crmall-crud\Crmall.CrossCutting\obj\Debug\netcoreapp3.1\Crmall.CrossCutting.dll
+C:\Users\adria\Desktop\crmall-crud\Crmall.CrossCutting\obj\Debug\netcoreapp3.1\Crmall.CrossCutting.pdb
+C:\Git\crmall-crud\Crmall.CrossCutting\bin\Debug\netcoreapp3.1\Crmall.CrossCutting.deps.json
+C:\Git\crmall-crud\Crmall.CrossCutting\bin\Debug\netcoreapp3.1\Crmall.CrossCutting.dll
+C:\Git\crmall-crud\Crmall.CrossCutting\bin\Debug\netcoreapp3.1\Crmall.CrossCutting.pdb
+C:\Git\crmall-crud\Crmall.CrossCutting\bin\Debug\netcoreapp3.1\Crmall.Data.dll
+C:\Git\crmall-crud\Crmall.CrossCutting\bin\Debug\netcoreapp3.1\Crmall.Domain.dll
+C:\Git\crmall-crud\Crmall.CrossCutting\bin\Debug\netcoreapp3.1\Crmall.Services.dll
+C:\Git\crmall-crud\Crmall.CrossCutting\bin\Debug\netcoreapp3.1\Crmall.Data.pdb
+C:\Git\crmall-crud\Crmall.CrossCutting\bin\Debug\netcoreapp3.1\Crmall.Domain.pdb
+C:\Git\crmall-crud\Crmall.CrossCutting\bin\Debug\netcoreapp3.1\Crmall.Services.pdb
+C:\Git\crmall-crud\Crmall.CrossCutting\obj\Debug\netcoreapp3.1\Crmall.CrossCutting.csprojAssemblyReference.cache
+C:\Git\crmall-crud\Crmall.CrossCutting\obj\Debug\netcoreapp3.1\Crmall.CrossCutting.AssemblyInfoInputs.cache
+C:\Git\crmall-crud\Crmall.CrossCutting\obj\Debug\netcoreapp3.1\Crmall.CrossCutting.AssemblyInfo.cs
+C:\Git\crmall-crud\Crmall.CrossCutting\obj\Debug\netcoreapp3.1\Crmall.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Git\crmall-crud\Crmall.CrossCutting\obj\Debug\netcoreapp3.1\Crmall.CrossCutting.csproj.CopyComplete
+C:\Git\crmall-crud\Crmall.CrossCutting\obj\Debug\netcoreapp3.1\Crmall.CrossCutting.dll
+C:\Git\crmall-crud\Crmall.CrossCutting\obj\Debug\netcoreapp3.1\Crmall.CrossCutting.pdb
